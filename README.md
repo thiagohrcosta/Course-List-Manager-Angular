@@ -1,27 +1,42 @@
-# CourseManager
+# Course List Manager
+![enter image description here](https://res.cloudinary.com/dloadb2bx/image/upload/v1625337835/angular_riujmx.gif)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
+O objetivo do presente projeto foi desenvolver habilidades iniciais em **Angular** entendendo, por exemplo, como funcionam os módulos e rotas em uma aplicação. 
 
-## Development server
+Obs: Este projeto faz parte do Santander Bootcamp cujo conteúdo integral pode ser visualizado [aqui](https://github.com/thiagohrcosta/SantanderBootcamp).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Tecnologias utilizadas
 
-## Code scaffolding
+**Frontend** 
+<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+**Backend**
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 
-## Build
+## Rotina de desenvolvimento
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+**27 junho**
 
-## Running unit tests
+	- Novo projeto em Angular criado;
+	- Adiciona o Bootstrap ao Angular;
+	- Criando primeira lista com Angular.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+** 28 junho**
 
-## Running end-to-end tests
+	- Adiciona imagens ao projeto Angular;
+	- Adiciona variáveis ao HTML no Angular;
+	- Injeção de dependência.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+**29 junho**
 
-## Further help
+	- Adiciona rotas para acessar componentes;
+	- Adiciona rotas de save e edit.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+**03 julho**
+
+	- Adiciona backend em NodeJS;
+	- HTTP com angular;
+	- Segrega a aplicação em módulos.
+
+## Certificado
+![enter image description here](https://github.com/thiagohrcosta/SantanderBootcamp/blob/master/000%20-%20Certificados/006%20-%20Introdu%C3%A7%C3%A3o%20ao%20Angular.png?raw=true)
